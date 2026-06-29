@@ -143,6 +143,7 @@ nav {
     text-align: center;
     max-width: 120vh;
     margin: 0 auto;
+        padding-top: 10px;
 }
 
 .hero-content {
@@ -162,7 +163,7 @@ nav {
 
 .hero-image {
     width: 100%;
-    margin-bottom: -145px;
+    margin-bottom: -60px;
     height: auto;
     position: relative;
     z-index: 2;
